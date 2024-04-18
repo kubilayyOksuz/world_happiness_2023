@@ -33,3 +33,10 @@ More can be found here: <a href="https://worldhappiness.report/about/">Source</a
 10. Grouped the merged dataframe on region using Pandas groupby() function.
 11. Used bar plot to show every region's ladder score.
 12. Finally, used Plotly to visualise ladder score ranking on the World map, Europe map, Asia map and Africa map.
+
+### Important Edit
+Unfortunately, I wasn't aware of the fact that Plotly outputs can't be displayed on GitHub, so I'm going to add the outputs here.
+<img width="1298" alt="Ekran Resmi 2024-04-19 01 24 26" src="https://github.com/kubilayyOksuz/world_happiness_2023/assets/95081880/253a1b76-4ec1-4a72-ad7b-05726f50e376">
+![newplot](https://github.com/kubilayyOksuz/world_happiness_2023/assets/95081880/64a2393e-88c1-4e59-9b21-e9ad4cadc337)
+![asia](https://github.com/kubilayyOksuz/world_happiness_2023/assets/95081880/a6a78f04-e014-4651-9932-cfe42c081af2)
+![africa](https://github.com/kubilayyOksuz/world_happiness_2023/assets/95081880/4f7396e1-51f1-429e-ae96-0b587110b5b9)
